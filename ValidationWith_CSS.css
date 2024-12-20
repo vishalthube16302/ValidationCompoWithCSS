@@ -1,0 +1,26 @@
+.button-center {
+    position: absolute;
+    left: 35%; /* Center the button */
+    transform: translateX(-50%);
+    transition: left 0.3s ease-in-out;
+}
+
+.button-left {
+    position: absolute;
+    left: 140px;
+    transition: left 0.3s ease-in-out;
+}
+
+.button-right {
+    position: absolute;
+    left: 400px; /* You can adjust the value based on your requirements */
+    transition: left 0.3s ease-in-out;
+}
+.cancels-button{
+    position: absolute;
+    left: 320px; /* You can adjust the value based on your requirements */
+
+}
+.Compo-title{
+    color: red;
+}
